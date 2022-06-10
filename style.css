@@ -1,0 +1,18 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: url(bg.jpg);
+	font-family: Arial;
+	color: white;
+}
+.menu {
+	text-align: center;
+	color: black;
+	font-size: 1.5rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+canvas {
+	border: 5px solid rgb(74, 171, 115);
+	margin: auto;
+	display: block;
+}
